@@ -57,7 +57,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - images/book_page_switcher_demo.gif
+    - assets/images/book_page_switcher_demo.gif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
